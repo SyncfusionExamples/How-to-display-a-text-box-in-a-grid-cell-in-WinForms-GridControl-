@@ -38,7 +38,7 @@
     <DefineTrace>true</DefineTrace>
     <ErrorReport>prompt</ErrorReport>
   </PropertyGroup>
-  <ItemGroup
+  <ItemGroup>
     <Reference Include="Syncfusion.Grid.Windows"/>
     <Reference Include="Syncfusion.Licensing"/>
     <Reference Include="Syncfusion.Shared.Base"/>
